@@ -1,4 +1,4 @@
-# LMNx9 bKash Info 
+# LMNx9 bKash Half Info 
 
 <p align="center">
   <img src="https://github.com/LMNx9-JOHNY/bKash-Info/raw/refs/heads/main/bKash_Half_Info_1.0.png" alt="LMNx9 bKash Info" width="300">
